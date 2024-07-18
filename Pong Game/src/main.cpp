@@ -31,7 +31,7 @@ int main()
                  25, 200, 5);
 
     Paddle aiPaddle(winWidth - 10 - 25, winHeight/2 - 75,
-                 25, 200, 7);
+                 25, 200, 8);
 
     // Game loop 
     while (!WindowShouldClose())
